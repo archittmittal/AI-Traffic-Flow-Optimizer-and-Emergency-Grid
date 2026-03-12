@@ -592,7 +592,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **🚦 Making India's roads smarter, safer, and more efficient**
 
-[![Stars](https://img.shields.io/github/stars/your-username/INDIA_INNOVATES?style=social)](https://github.com/your-username/INDIA_INNOVATES)
-[![Forks](https://img.shields.io/github/forks/your-username/INDIA_INNOVATES?style=social)](https://github.com/your-username/INDIA_INNOVATES)
-
 </div>
