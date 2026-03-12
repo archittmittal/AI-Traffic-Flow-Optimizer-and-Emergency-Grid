@@ -19,6 +19,8 @@
 
 > **A real-time AI-powered traffic management dashboard** designed for city traffic authorities to monitor intersections, control signals, manage emergency corridors, and detect incidents — all from a single command center interface.
 
+### 🔴 [Live Demo](https://ai-traffic-flow-optimizer-and-emerg.vercel.app) | 🎥 [Demo Video](https://drive.google.com/file/d/1IUy0aksL1vYK7IJwA7jVrZkiXT1F8fA-/view?usp=sharing)
+
 [🚀 Getting Started](#-getting-started) · [📖 Features](#-features) · [🏗️ Architecture](#️-system-architecture) · [📡 API Reference](#-api-reference) · [🎯 Pages](#-dashboard-pages)
 
 </div>
