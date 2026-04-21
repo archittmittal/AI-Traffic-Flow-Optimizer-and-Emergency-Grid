@@ -567,17 +567,7 @@ The UI is designed as a **professional traffic command center** with:
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| Aditya Keerti | Team Lead |
 | Archit Mittal | Full-Stack Developer |
-| Megha Singh | Team Member |
-| Apurva Sharma | Team Member |
-| Anshika Singh | Team Member |
-| Aviral Mittal | Team Member |
-
 ---
 
 ## 📄 License
