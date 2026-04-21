@@ -22,8 +22,8 @@ socketio = SocketIO(app, cors_allowed_origins="*", async_mode='threading')
 
 intersections = [
     {
-        "id": "INT-001", "name": "Connaught Place Junction",
-        "lat": 28.6315, "lng": 77.2167,
+        "id": "INT-001", "name": "Clock Tower (Ghanta Ghar)",
+        "lat": 30.3242, "lng": 78.0416,
         "congestionLevel": "heavy", "congestionScore": 87,
         "vehicleCount": 342, "avgWaitTime": 45,
         "signalPhase": "red", "nextSignalChange": 18,
@@ -35,8 +35,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-002", "name": "India Gate Circle",
-        "lat": 28.6129, "lng": 77.2295,
+        "id": "INT-002", "name": "ISBT Crossing",
+        "lat": 30.2882, "lng": 77.9984,
         "congestionLevel": "moderate", "congestionScore": 58,
         "vehicleCount": 218, "avgWaitTime": 28,
         "signalPhase": "green", "nextSignalChange": 32,
@@ -48,8 +48,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-003", "name": "ITO Junction",
-        "lat": 28.6287, "lng": 77.2407,
+        "id": "INT-003", "name": "Raipur Chowk",
+        "lat": 30.3168, "lng": 78.0863,
         "congestionLevel": "heavy", "congestionScore": 92,
         "vehicleCount": 410, "avgWaitTime": 52,
         "signalPhase": "red", "nextSignalChange": 12,
@@ -61,8 +61,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-004", "name": "AIIMS Flyover",
-        "lat": 28.5672, "lng": 77.2100,
+        "id": "INT-004", "name": "Astley Hall Crossing",
+        "lat": 30.3283, "lng": 78.0468,
         "congestionLevel": "low", "congestionScore": 25,
         "vehicleCount": 98, "avgWaitTime": 12,
         "signalPhase": "green", "nextSignalChange": 45,
@@ -74,8 +74,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-005", "name": "Nehru Place",
-        "lat": 28.5491, "lng": 77.2533,
+        "id": "INT-005", "name": "Prem Nagar Chowk",
+        "lat": 30.3340, "lng": 77.9620,
         "congestionLevel": "moderate", "congestionScore": 62,
         "vehicleCount": 245, "avgWaitTime": 30,
         "signalPhase": "yellow", "nextSignalChange": 5,
@@ -87,8 +87,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-006", "name": "Karol Bagh Crossing",
-        "lat": 28.6519, "lng": 77.1905,
+        "id": "INT-006", "name": "Ballupur Chowk",
+        "lat": 30.3340, "lng": 78.0125,
         "congestionLevel": "heavy", "congestionScore": 78,
         "vehicleCount": 312, "avgWaitTime": 38,
         "signalPhase": "red", "nextSignalChange": 22,
@@ -100,8 +100,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-007", "name": "Rajiv Chowk Metro",
-        "lat": 28.6328, "lng": 77.2197,
+        "id": "INT-007", "name": "Saharanpur Chowk",
+        "lat": 30.3142, "lng": 78.0261,
         "congestionLevel": "moderate", "congestionScore": 55,
         "vehicleCount": 198, "avgWaitTime": 25,
         "signalPhase": "green", "nextSignalChange": 38,
@@ -113,8 +113,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-008", "name": "Lajpat Nagar",
-        "lat": 28.5700, "lng": 77.2397,
+        "id": "INT-008", "name": "Dharampur Chowk",
+        "lat": 30.3015, "lng": 78.0438,
         "congestionLevel": "low", "congestionScore": 32,
         "vehicleCount": 120, "avgWaitTime": 15,
         "signalPhase": "green", "nextSignalChange": 40,
@@ -126,8 +126,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-009", "name": "Saket Junction",
-        "lat": 28.5245, "lng": 77.2066,
+        "id": "INT-009", "name": "Rispana Bridge",
+        "lat": 30.2974, "lng": 78.0560,
         "congestionLevel": "low", "congestionScore": 18,
         "vehicleCount": 75, "avgWaitTime": 8,
         "signalPhase": "green", "nextSignalChange": 50,
@@ -139,8 +139,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-010", "name": "Pragati Maidan",
-        "lat": 28.6183, "lng": 77.2480,
+        "id": "INT-010", "name": "Dilaram Chowk",
+        "lat": 30.3361, "lng": 78.0494,
         "congestionLevel": "moderate", "congestionScore": 48,
         "vehicleCount": 178, "avgWaitTime": 22,
         "signalPhase": "yellow", "nextSignalChange": 8,
@@ -152,8 +152,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-011", "name": "Dwarka Sec-21",
-        "lat": 28.5562, "lng": 77.0582,
+        "id": "INT-011", "name": "Kishannagar Chowk",
+        "lat": 30.3350, "lng": 78.0330,
         "congestionLevel": "low", "congestionScore": 22,
         "vehicleCount": 88, "avgWaitTime": 10,
         "signalPhase": "green", "nextSignalChange": 42,
@@ -165,8 +165,8 @@ intersections = [
         ],
     },
     {
-        "id": "INT-012", "name": "Moolchand Flyover",
-        "lat": 28.5720, "lng": 77.2290,
+        "id": "INT-012", "name": "Jogiwala Chowk",
+        "lat": 30.2930, "lng": 78.0690,
         "congestionLevel": "heavy", "congestionScore": 82,
         "vehicleCount": 330, "avgWaitTime": 42,
         "signalPhase": "red", "nextSignalChange": 15,
